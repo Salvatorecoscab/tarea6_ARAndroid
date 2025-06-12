@@ -45,9 +45,9 @@ El proyecto utiliza un stack moderno de desarrollo para Android y AR:
 
 | Dependencia                          | Propósito                                                                                                           |
 | :----------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
-| `libs.arsceneview`                 | **SceneView:**La librería principal que abstrae ARCore y el motor de renderizado 3D (Filament).                     |
-| `libs.androidx.compose.*`          | **Jetpack Compose:**El kit de herramientas para construir toda la interfaz de usuario de forma nativa y declarativa. |
-| `libs.androidx.navigation.compose` | **Navigation Compose:**Para gestionar la navegación entre las pantallas de la aplicación.                          |
-| `libs.kotlinx.serialization.json`  | **Kotlinx Serialization:**Librería para convertir objetos Kotlin a formato JSON y viceversa.                        |
-| `libs.androidx.core.ktx`, etc.     | **Android KTX & Jetpack Core:**Funcionalidades base y extensiones de Kotlin para el desarrollo en Android.           |
-| `testImplementation`, etc.         | **Librerías de Testing:**Para pruebas unitarias, de instrumentación y herramientas de depuración.                 |
+| `libs.arsceneview`                 | SceneView:La librería principal que abstrae ARCore y el motor de renderizado 3D (Filament).                     |
+| `libs.androidx.compose.*`          | Jetpack Compose:El kit de herramientas para construir toda la interfaz de usuario de forma nativa y declarativa. |
+| `libs.androidx.navigation.compose` | Navigation Compose:Para gestionar la navegación entre las pantallas de la aplicación.                          |
+| `libs.kotlinx.serialization.json`  | Kotlinx Serialization:Librería para convertir objetos Kotlin a formato JSON y viceversa.                        |
+| `libs.androidx.core.ktx`, etc.     | Android KTX & Jetpack Core:Funcionalidades base y extensiones de Kotlin para el desarrollo en Android.           |
+| `testImplementation`, etc.         | Librerías de Testing:Para pruebas unitarias, de instrumentación y herramientas de depuración.                 |
