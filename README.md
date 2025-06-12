@@ -1,6 +1,6 @@
 
 
-#Visor Interactivo de Modelos 3D
+# Visor Interactivo de Modelos 3D
 
 `Visor Interactivo de Modelos 3D` es una aplicación Android nativa con Jetpack Compose y SceneView que demuestra una experiencia de Realidad Aumentada interactiva. Permite a los usuarios colocar un modelo 3D en su entorno, escuchar un sonido al colocarlo y manipularlo con gestos táctiles (mover, rotar, escalar).
 
